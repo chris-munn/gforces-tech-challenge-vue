@@ -2,7 +2,7 @@
 
 ## Tech Challenge ([Vue.js][6])
 
-This is a simple technical challenge to show us your ability using Vue.js. If you run into any issues, please contact Chris at [chris.munn@gforces.co.uk][1]. Spend as little or as long as you wish on it, but please try to complete as much as possible. Functionality is the main priority over design, however we will be checking over your use of CSS / Sass. You'll be asked to talk about your code in your second interview. 
+This is a simple technical challenge to show us your ability using Vue.js, there are some bugs which have been introduced to the project on purpose to test your setup knowledge, you will need to fix these first before the application will load. If you run into any issues, please contact Chris at [chris.munn@gforces.co.uk][1]. Spend as little or as long as you wish on it, but please try to complete as much as possible. Functionality is the main priority over design, however we will be checking over your use of CSS / Sass. You'll be asked to talk about your code in your second interview. 
 
 Please commit often! We would like to see your thought process as you work through the challenge.
 
